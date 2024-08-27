@@ -2,7 +2,7 @@
 
 I am software engineer fr and i just want my github page look fine. My main direction is DevOps, but i guess i am ok with backend as well.
 
-<h2> 🚀 &nbsp; What i have been learning and mastering in DevOps </h2>
+<h2> &nbsp; What i have been learning and mastering in DevOps </h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" alt="bash" width="45" height="45"/>
@@ -15,7 +15,7 @@ I am software engineer fr and i just want my github page look fine. My main dire
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" alt="nginx" width="45" height="45"/>
 </p>
 
-<h2> 🚀 &nbsp; What i have been learning and mastering outside DevOps </h2>
+<h2> &nbsp; What i have been learning and mastering outside DevOps </h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="django" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" alt="django-rest" width="45" height="45"/>
